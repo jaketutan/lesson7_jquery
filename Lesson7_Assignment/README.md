@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+03, 31, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jake Tutan
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment had us using jquery to animate the titles on a baking recipe web page. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use the browser's DOM console to edit the jquery code of the page in real time. 
+2. I learned how to use jquery to display the text of a web page after I click the heading. 
+3. I learned how to use jquery to animate the heading, giving it new colors and displaying drop down text. 
